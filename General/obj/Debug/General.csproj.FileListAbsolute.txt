@@ -1,0 +1,4 @@
+C:\Users\ugr\Source\Repos\TDD\General\bin\Debug\General.dll
+C:\Users\ugr\Source\Repos\TDD\General\bin\Debug\General.pdb
+C:\Users\ugr\Source\Repos\TDD\General\obj\Debug\General.dll
+C:\Users\ugr\Source\Repos\TDD\General\obj\Debug\General.pdb

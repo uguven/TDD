@@ -50,10 +50,14 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="TestValidator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\General\General.csproj">
+      <Project>{591745aa-c1ca-473b-ba7e-0e85713dc88c}</Project>
+      <Name>General</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TDD\TDD.csproj">
       <Project>{e6b3bbcb-7be3-4e8b-ad32-255140e65a78}</Project>
       <Name>TDD</Name>

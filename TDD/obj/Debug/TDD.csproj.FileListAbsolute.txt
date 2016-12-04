@@ -7,3 +7,6 @@ C:\Users\ugr\Source\Repos\TDD\TDD\obj\Debug\TDD.Properties.Resources.resources
 C:\Users\ugr\Source\Repos\TDD\TDD\obj\Debug\TDD.csproj.GenerateResource.Cache
 C:\Users\ugr\Source\Repos\TDD\TDD\obj\Debug\TDD.exe
 C:\Users\ugr\Source\Repos\TDD\TDD\obj\Debug\TDD.pdb
+C:\Users\ugr\Source\Repos\TDD\TDD\obj\Debug\TDD.Form1.resources
+C:\Users\ugr\Source\Repos\TDD\TDD\bin\Debug\General.dll
+C:\Users\ugr\Source\Repos\TDD\TDD\bin\Debug\General.pdb

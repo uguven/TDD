@@ -7,3 +7,5 @@ C:\Users\ugr\Source\Repos\TDD\TEST_TDD\obj\Debug\TEST_TDD.dll
 C:\Users\ugr\Source\Repos\TDD\TEST_TDD\obj\Debug\TEST_TDD.pdb
 C:\Users\ugr\Source\Repos\TDD\TEST_TDD\bin\Debug\TDD.exe
 C:\Users\ugr\Source\Repos\TDD\TEST_TDD\bin\Debug\TDD.pdb
+C:\Users\ugr\Source\Repos\TDD\TEST_TDD\bin\Debug\General.dll
+C:\Users\ugr\Source\Repos\TDD\TEST_TDD\bin\Debug\General.pdb
