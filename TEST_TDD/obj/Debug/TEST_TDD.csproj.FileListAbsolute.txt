@@ -1,0 +1,9 @@
+C:\Users\ugr\Source\Repos\TDD\TEST_TDD\bin\Debug\TEST_TDD.dll
+C:\Users\ugr\Source\Repos\TDD\TEST_TDD\bin\Debug\TEST_TDD.pdb
+C:\Users\ugr\Source\Repos\TDD\TEST_TDD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ugr\Source\Repos\TDD\TEST_TDD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ugr\Source\Repos\TDD\TEST_TDD\obj\Debug\TEST_TDD.csprojResolveAssemblyReference.cache
+C:\Users\ugr\Source\Repos\TDD\TEST_TDD\obj\Debug\TEST_TDD.dll
+C:\Users\ugr\Source\Repos\TDD\TEST_TDD\obj\Debug\TEST_TDD.pdb
+C:\Users\ugr\Source\Repos\TDD\TEST_TDD\bin\Debug\TDD.exe
+C:\Users\ugr\Source\Repos\TDD\TEST_TDD\bin\Debug\TDD.pdb
